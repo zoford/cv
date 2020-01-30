@@ -1,4 +1,7 @@
 # ENZO CRANFORD
+## Créateur de logiciels
+## Nationalité: franco-américain
+## [github](github.com/zoford) [linkedIn](linkedin.com/in/enzo-cranford-82b592198) 
 
 ## EXPERIENCES:
 - Stage à [Previmeteo](https://www.previmeteo.com/) (1 semaine)
