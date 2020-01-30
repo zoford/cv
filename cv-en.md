@@ -1,7 +1,7 @@
 # ENZO CRANFORD
-## Software creator
-## Nationality: French & American
-## [github](github.com/zoford) [LinkedIn](linkedin.com/in/enzo-cranford-82b592198)
+Software creator
+Nationality: French & American
+[github](github.com/zoford), [LinkedIn](linkedin.com/in/enzo-cranford-82b592198)
 
 ## EXPERIENCES:
 - Internship at [Previmeteo](https://www.previmeteo.com/) (1 week)
@@ -12,12 +12,12 @@
 - Apprenticeship at [/ut7](https://ut7.fr/) (6 months)
 
 ## PROJECTS:
-- [Swave](https://swave.zoford.now.sh/Swave): music creation webapp - Javascript & tonejs - as a personal project while at /ut7.
-- [Zebus](https://github.com/ut7/zebusZebus): digitized pamflet - Hugo & forestry - as a professional project while at /ut7.
-- [Sofixbet](https://sofixbet.com/Sofixbet): sport event predictions - ExpressJS & Stripe - as a freelance project.
-- Pepite Agency: company website for Pepite Agency - Wordpress - as a freelance project.
-- [Positive User](https://ldjam.com/events/ludum-dare/39/the-positive-user): 2D game - Unity - for the Ludum Dare 39 game jam.
-- [FESI](https://itch.io/jam/godot-wild-jam-8/rate/408906): 2D game - Godot - for the  Godot Wild Jam #8 game jam.
+- [Swave](https://swave.zoford.now.sh/Swave): music creation webapp - Javascript & tonejs - personal project at /ut7.
+- [Zebus](https://github.com/ut7/zebusZebus): digitized pamflet - Hugo & forestry - professional project at /ut7.
+- [Sofixbet](https://sofixbet.com/Sofixbet): sport event predictions - ExpressJS & Stripe - freelance project.
+- Pepite Agency: company website for Pepite Agency - Wordpress - freelance project.
+- [Positive User](https://ldjam.com/events/ludum-dare/39/the-positive-user): 2D game - Unity - Ludum Dare 39 game jam.
+- [FESI](https://itch.io/jam/godot-wild-jam-8/rate/408906): 2D game - Godot - Godot Wild Jam #8 game jam.
 
 ## SKILLS:
 ### Computer Languages:

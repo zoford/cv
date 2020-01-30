@@ -1,7 +1,7 @@
 # ENZO CRANFORD
-## Créateur de logiciels
-## Nationalité: franco-américain
-## [github](github.com/zoford) [linkedIn](linkedin.com/in/enzo-cranford-82b592198) 
+Créateur de logiciels
+Nationalité: franco-américain
+[github](github.com/zoford), [linkedIn](linkedin.com/in/enzo-cranford-82b592198) 
 
 ## EXPERIENCES:
 - Stage à [Previmeteo](https://www.previmeteo.com/) (1 semaine)
@@ -12,12 +12,12 @@
 - Contrat professionel à [/ut7](https://ut7.fr/) (6 mois)
 
 ## PROJETS:
-- [Swave](https://swave.zoford.now.sh/Swave): application web pour créer de la musique - Javascript & ToneJS - entant que projet personel à /ut7.
-- [Zebus](https://github.com/ut7/zebusZebus): brochure sous forme web - Hugo & Forestry - entant que projet à /ut7.
-- [Sofixbet](https://sofixbet.com/Sofixbet): site de pronostique sportif - ExpressJS & Stripe - entant que projet freelance.
-- Pepite Agency: site web proffessionel de Pepite Agency - Wordpress - entant que projet freelance.
-- [Positive User](https://ldjam.com/events/ludum-dare/39/the-positive-user): jeu 2D - Unity - pour le game jam Ludum Dare 39. 
-- [FESI](https://itch.io/jam/godot-wild-jam-8/rate/408906): jeu 2D - Godot - pour le game jam Godot Wild Jam #8.
+- [Swave](https://swave.zoford.now.sh/Swave): application web pour créer de la musique - Javascript & ToneJS - projet personel à /ut7.
+- [Zebus](https://github.com/ut7/zebusZebus): brochure sous forme web - Hugo & Forestry - projet professionnel à /ut7.
+- [Sofixbet](https://sofixbet.com/Sofixbet): site de pronostique sportif - ExpressJS & Stripe - projet freelance.
+- Pepite Agency: site web proffessionel de Pepite Agency - Wordpress - projet freelance.
+- [Positive User](https://ldjam.com/events/ludum-dare/39/the-positive-user): jeu 2D - Unity - game jam Ludum Dare 39. 
+- [FESI](https://itch.io/jam/godot-wild-jam-8/rate/408906): jeu 2D - Godot - game jam Godot Wild Jam #8.
 
 ## COMPETENCES:
 ### Languages Informatiques:
