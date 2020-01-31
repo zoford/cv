@@ -1,7 +1,7 @@
 # ENZO CRANFORD
 ### Software creator
 - Nationality: French & American
-- [github](github.com/zoford), [LinkedIn](linkedin.com/in/enzo-cranford-82b592198)
+- [github](https://github.com/zoford), [LinkedIn](https://www.linkedin.com/in/enzo-cranford-82b592198)
 
 ## EXPERIENCES:
 - Internship at [Previmeteo](https://www.previmeteo.com/) (1 week)
