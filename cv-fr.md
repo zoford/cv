@@ -4,12 +4,12 @@
 - [github](https://github.com/zoford), [linkedIn](https://www.linkedin.com/in/enzo-cranford-82b592198) 
 
 ## EXPERIENCES:
-- Stage à [Previmeteo](https://www.previmeteo.com/) (1 semaine)
-- [Geekcamp](https://okiwi.org/geek-camp/) (2013 - 2017)
-- [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) (2016)
-- [AgileOpen France Été](https://agileopenfrance.com/) (2019)
-- [NewCrafts](https://www.ncrafts.io/) (2017 & 2019)
 - Contrat professionel à [/ut7](https://ut7.fr/) (6 mois)
+- [NewCrafts](https://www.ncrafts.io/) (2017 & 2019)
+- [AgileOpen France Été](https://agileopenfrance.com/) (2019)
+- [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) (2016)
+- [Geekcamp](https://okiwi.org/geek-camp/) (2013 - 2017)
+- Stage à [Previmeteo](https://www.previmeteo.com/) (1 semaine)
 
 ## PROJETS:
 - [Swave](https://swave.zoford.now.sh/Swave): application web pour créer de la musique - Javascript & ToneJS - projet personel à /ut7.
