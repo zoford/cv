@@ -6,8 +6,8 @@
 ## EXPERIENCES:
 - Apprenticeship at [/ut7](https://ut7.fr/) (6 months)
 - [NewCrafts](https://www.ncrafts.io/) (2017 & 2019)
-- [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) (2016)
 - [AgileOpen France Summer](https://agileopenfrance.com/) (2019)
+- [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) (2016)
 - [Geekcamp](https://okiwi.org/geek-camp/) (2013 - 2017)
 - Internship at [Previmeteo](https://www.previmeteo.com/) (1 week)
 
